@@ -1,0 +1,7 @@
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\bin\Debug\VortexCSharpTest.dll
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\bin\Debug\VortexCSharpTest.pdb
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\bin\Debug\VortexCSharp.dll
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\bin\Debug\VortexCSharp.pdb
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\obj\Debug\VortexCSharpTest.dll
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharpTest\obj\Debug\VortexCSharpTest.pdb

@@ -1,0 +1,5 @@
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharp\bin\Debug\VortexCSharp.dll
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharp\bin\Debug\VortexCSharp.pdb
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharp\obj\Debug\VortexCSharp.dll
+D:\Proyectos\Git\VortexCSharp\sln\VortexCSharp\obj\Debug\VortexCSharp.pdb
